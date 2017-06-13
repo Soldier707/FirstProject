@@ -1,0 +1,86 @@
+
+
+
+body{
+   padding:0%;
+    margin: 0%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+h2{
+     margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+h1,h2{
+    color: white;
+   text-align: center;
+margin-left: 10%;
+margin-right:10%;
+    margin-bottom: 1%;
+    font-family: sans-serif;
+
+    
+}
+
+div.margin{
+    
+    
+}
+
+.center{
+   padding: 1%; 
+   text-align: center;
+margin-left: 10%;
+margin-right:10%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+    font-family: sans-serif;
+
+
+ width: 40%;
+    }
+
+#button{
+    border-radius: 10px;
+     width: 40%;
+    margin-left: 10%;
+margin-right:10%;
+    margin-top: 3%;
+    margin-bottom: 5%; 
+    font-family: sans-serif;
+    padding: 1%;
+}
+div.center{
+    
+    position: absolute;
+    padding: 0px;
+   margin-left: auto;
+    margin-right: auto;
+    top: 30%;
+    bottom: 30%;
+    width: 100%;
+ }
+
+div.phone{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: black;
+    /
+    
+}
+div.autorization
+{
+    border-radius: 15%;
+   
+    margin-left: 25%;
+    margin-right: 25%;
+}
